@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Publications",
+    "section": "",
+    "text": "Andrea Nigri is an Associate Professor at the Department of Social Sciences, University of Foggia. Prior to joining the University of Foggia, he was a Research Fellow at the Department of Social and Political Sciences, Bocconi University.\nHe works on developing and improving statistical methodology in the field of Statistical Demography and Longevity Risk. He has an interdisciplinary background with training in Statistics and its application to demographic research, obtained through a Ph.D. at Sapienza University of Rome (Department of Statistics), and through the European Doctoral School of Demography (EDSD), a pan-European Ph.D. training program held at the Max Planck Institute for Demographic Research and the University of Southern Denmark.\nPrior to starting the Ph.D. program, in 2016 he was a Research Fellow at the Local Health Department of Padua ULSS6, working on epidemiologic surveillance of asbestos-related disease and occupational exposure.\n\n\nHis research serves as a bridge between longevity analysis and statistical learning:\n\nStatistical Learning & Deep Learning for Mortality Modeling: Introducing regression trees, neural networks (such as LSTM architectures), and skew-normal mixture models as integrations or full replacements of traditional mortality models (e.g. Lee-Carter extensions).\nIndirect Estimation of Vital Rates: Developing cutting-edge methods to disaggregate death rates of age-groups and estimate age-specific mortality profiles from summary demographic measures (such as life expectancy at birth).\nCauses-of-Death & Lifespan Inequality: Investigating causes-of-death transitions, lifespan variation among populations with specific medical conditions, and novel lifespan disparity metrics such as the Average Uneven Mortality index (\\(e^\\dagger\\)).\n\n\n\n\n\nMacquarie University (Australia): Honorary Visiting Fellow, Business School, Department of Actuarial Studies and Business Analytics\nMax-Planck Institute for Demographic Research (MPIDR, Germany): Visiting Scholar\nUniversity of Southern Denmark (SDU): Visiting Scholar, Interdisciplinary Centre on Population Dynamics (CPop)\nAarhus University (Denmark): Visiting Scholar, Department of Clinical Epidemiology\nYork University (Canada): Research grant collaboration with the Individual Finance & Insurance Decisions (IFID) Centre"
+  },
+  {
+    "objectID": "research.html#research-overview",
+    "href": "research.html#research-overview",
+    "title": "Research & Publications",
+    "section": "",
+    "text": "Andrea Nigri is an Associate Professor at the Department of Social Sciences, University of Foggia. Prior to joining the University of Foggia, he was a Research Fellow at the Department of Social and Political Sciences, Bocconi University.\nHe works on developing and improving statistical methodology in the field of Statistical Demography and Longevity Risk. He has an interdisciplinary background with training in Statistics and its application to demographic research, obtained through a Ph.D. at Sapienza University of Rome (Department of Statistics), and through the European Doctoral School of Demography (EDSD), a pan-European Ph.D. training program held at the Max Planck Institute for Demographic Research and the University of Southern Denmark.\nPrior to starting the Ph.D. program, in 2016 he was a Research Fellow at the Local Health Department of Padua ULSS6, working on epidemiologic surveillance of asbestos-related disease and occupational exposure.\n\n\nHis research serves as a bridge between longevity analysis and statistical learning:\n\nStatistical Learning & Deep Learning for Mortality Modeling: Introducing regression trees, neural networks (such as LSTM architectures), and skew-normal mixture models as integrations or full replacements of traditional mortality models (e.g. Lee-Carter extensions).\nIndirect Estimation of Vital Rates: Developing cutting-edge methods to disaggregate death rates of age-groups and estimate age-specific mortality profiles from summary demographic measures (such as life expectancy at birth).\nCauses-of-Death & Lifespan Inequality: Investigating causes-of-death transitions, lifespan variation among populations with specific medical conditions, and novel lifespan disparity metrics such as the Average Uneven Mortality index (\\(e^\\dagger\\)).\n\n\n\n\n\nMacquarie University (Australia): Honorary Visiting Fellow, Business School, Department of Actuarial Studies and Business Analytics\nMax-Planck Institute for Demographic Research (MPIDR, Germany): Visiting Scholar\nUniversity of Southern Denmark (SDU): Visiting Scholar, Interdisciplinary Centre on Population Dynamics (CPop)\nAarhus University (Denmark): Visiting Scholar, Department of Clinical Epidemiology\nYork University (Canada): Research grant collaboration with the Individual Finance & Insurance Decisions (IFID) Centre"
+  },
+  {
+    "objectID": "research.html#editorial-roles",
+    "href": "research.html#editorial-roles",
+    "title": "Research & Publications",
+    "section": "Editorial Roles",
+    "text": "Editorial Roles\n\nCo-Editor in Chief · Communications in Statistics – Theory and Methods (2025–present)\n\n\nAssociate Editor · Journal of Applied Statistics: Environmental Statistics and Data Science (2025–present)\n\n\nAssociate Editor · Journal of Population Research (2024–present)\n\n\nAssociate Editor · Population Health Metrics (2024–present)\n\n\nEditorial Board Member · Scientific Reports (2023)\n\n\nGuest Editor · Special Issue: Advances in Statistical Modelling for Social Science, Annals of Operations Research (2023)\n\n\nLead Guest Editor · Special Issue: Methods for modelling and understanding population changes, Quality & Quantity: International Journal of Methodology\n\n\nEditorial Board Member · Quality & Quantity: International Journal of Methodology (2021)"
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research & Publications",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n(For a complete list of publications, monographs, and conference proceedings, please refer to the Curriculum Vitae or Google Scholar).\n\n\nExtending finite mixture models with skew-normal distributions and hidden Markov models for time series\n\n\nA. Nigri, M. Forti, H. L. Shang (2025)\n\n\nJournal of Statistical Computation and Simulation, 1–28.\n\n DOI: 10.1080/00949655.2025.2568148\n\n\n\nAge-period modeling of mortality gaps: the cases of cancer and circulatory diseases\n\n\nG. L. Baldi, A. Nigri, H. L. Shang (2025)\n\n\nJournal of Official Statistics.\n\n DOI: 10.1177/0282423x251350772\n\n\n\nStochastic variational inference for clustering short text data with finite mixtures of Dirichlet-Multinomial distributions\n\n\nM. Bilancia, A. Nigri, S. Magro (2025)\n\n\nStatistical Papers, 66 (4), 801.\n\n DOI: 10.1007/s00362-025-01764-0\n\n\n\nThe poverty-free life expectancy in Europe\n\n\nG. Betti, F. Crescenzi, A. Nigri (2025)\n\n\nJournal of Official Statistics.\n\n DOI: 10.1177/0282423x251316158\n\n\n\nForecasting vital rates by a trimodal extension of the flexible generalized skew normal probability density function\n\n\nM. Bufalo, A. Nigri (2024)\n\n\nStatistics, 58 (6), 1506–1530.\n\n DOI: 10.1080/02331888.2024.2422376\n\n\n\nWasserstein Barycenter Regression: Application to the Joint Dynamics of Regional GDP and Life Expectancy in Italy\n\n\nS. Levantesi, A. Nigri, P. Pagnottoni, A. Spelta (2024)\n\n\nAStA Advances in Statistical Analysis.\n\n DOI: 10.1007/s10182-024-00506-1\n\n\n\nAn interpretable cluster-based logistic regression model, with application to the characterization of response to therapy in severe eosinophilic asthma\n\n\nM. Bilancia, A. Nigri, B. Cafarelli, D. Di Bona (2024)\n\n\nThe International Journal of Biostatistics.\n\n DOI: 10.1515/ijb-2023-0061\n\n\n\nThe Average Uneven Mortality index: Building on the “e-dagger” measure of lifespan inequality\n\n\nM. Bonetti, U. Basellini, A. Nigri (2024)\n\n\nDemographic Research, 50, 1281–1300.\n\n DOI: 10.4054/DemRes.2024.50.43\n\n\n\nDisaggregating death rates of age-groups using deep learning algorithms\n\n\nA. Nigri, S. Levantesi, S. Scognamiglio (2024)\n\n\nJournal of Official Statistics.\n\n DOI: 10.1177/0282423x241240739\n\n\n\nLifespan variation among people with a given disease or condition\n\n\nZ. Yan, I. Permanyer, V. Canudas-Romo, J. M. Aburto, A. Nigri, O. Plana-Ripoll (2023)\n\n\nPLOS ONE, 18 (9): e0290962.\n\n DOI: 10.1371/journal.pone.0290962\n\n\n\nMortality forecasting using a four-way CANDECOMP/PARAFAC decomposition\n\n\nG. Cardillo, P. Giordani, S. Levantesi, A. Nigri, A. Spelta (2023)\n\n\nScandinavian Actuarial Journal.\n\n DOI: 10.1080/03461238.2023.2175326\n\n\n\nEvaluation of age-specific causes of death in the context of the Italian longevity transition\n\n\nA. Nigri, J. M. Aburto, U. Basellini, M. Bonetti (2022)\n\n\nScientific Reports, 12, 22624.\n\n DOI: 10.1038/s41598-022-26907-3\n\n\n\nLeveraging deep neural networks to estimate age-specific mortality from life expectancy at birth\n\n\nA. Nigri, S. Levantesi, J. M. Aburto (2022)\n\n\nDemographic Research, 47, 8, 203–220.\n\n DOI: 10.4054/DemRes.2022.47.8\n\n\n\nClustering-based simultaneous forecasting of life expectancy time series through Long-Short Term Memory Neural Networks\n\n\nS. Levantesi, A. Nigri, G. Piscopo (2022)\n\n\nInternational Journal of Approximate Reasoning, 141, 144–160.\n\n DOI: 10.1016/j.ijar.2021.10.008\n\n\n\nThe relationship between longevity and lifespan variation\n\n\nA. Nigri, E. Barbi, S. Levantesi (2022)\n\n\nStatistical Methods & Applications, 31, 887–913.\n\n DOI: 10.1007/s10260-021-00584-4\n\n\n\nLife expectancy and lifespan disparity forecasting: a Long Short-Term Memory approach\n\n\nA. Nigri, S. Levantesi, M. Marino (2021)\n\n\nScandinavian Actuarial Journal, 2021 (2), 110–133.\n\n DOI: 10.1080/03461238.2020.1814855\n\n\n\nA deep learning integrated Lee-Carter model\n\n\nA. Nigri, S. Levantesi, M. Marino, S. Scognamiglio, F. Perla (2019)\n\n\nRisks, 7 (1), 33.\n\n DOI: 10.3390/risks7010033"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "&lt;strong&gt;Curriculum Vitae (Updated October 2025)&lt;/strong&gt;&lt;br&gt;\n&lt;span class=\"text-muted small\"&gt;Available for preview below or direct PDF download.&lt;/span&gt;\n\n\n&lt;a href=\"files/anigri_cv_oct_25.pdf\" class=\"btn btn-primary\" download&gt;\n  &lt;i class=\"bi bi-file-earmark-pdf-fill me-1\"&gt;&lt;/i&gt; Download CV (PDF)\n&lt;/a&gt;"
+  },
+  {
+    "objectID": "cv.html#academic-positions-qualifications",
+    "href": "cv.html#academic-positions-qualifications",
+    "title": "Curriculum Vitae",
+    "section": "Academic Positions & Qualifications",
+    "text": "Academic Positions & Qualifications\n\nAssociate Professor in Statistics (SECS-S/01)\nDepartment of Social Sciences, University of Foggia (Dec 2024 – present)\nItalian National Scientific Qualification (ASN) as Full Professor\nSector 13/D3 – Social Statistics and Demography (Valid 2024 – 2034)\nTenure Track Assistant Professor (RTD-B) in Statistics\nDepartment of Social Sciences, University of Foggia (Dec 2021 – Dec 2024)\nPostdoctoral Research Fellow\nDepartment of Social and Political Sciences, Bocconi University (2020 – 2021)\nResearch Fellow\nDepartment of Statistics, Sapienza University of Rome (2019 – 2020)\nEpidemiologic Surveillance Research Fellow\nLocal Health Department of Padua ULSS6 (2016)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Methodological Statistics (Demographic and Social Curriculum)\nSapienza University of Rome, Department of Statistical Sciences (2016 – 2020)\nEuropean Doctoral School of Demography (EDSD)\nMax Planck Institute for Demographic Research (MPIDR) & University of Southern Denmark (SDU) (2017 – 2018)\nIntensive pan-European mathematical and statistical demography training program.\nM.Sc. in Statistical and Actuarial Sciences\nSapienza University of Rome (Summa cum Laude)\nB.Sc. in Statistics and Information Management\nSapienza University of Rome"
+  },
+  {
+    "objectID": "cv.html#visiting-stays-international-fellowships",
+    "href": "cv.html#visiting-stays-international-fellowships",
+    "title": "Curriculum Vitae",
+    "section": "Visiting Stays & International Fellowships",
+    "text": "Visiting Stays & International Fellowships\n\nMacquarie University (Australia): Honorary Visiting Fellow, Business School, Department of Actuarial Studies and Business Analytics\nMax Planck Institute for Demographic Research (MPIDR, Germany): Visiting Scholar\nUniversity of Southern Denmark (SDU): Visiting Scholar, Interdisciplinary Centre on Population Dynamics (CPop)\nAarhus University (Denmark): Visiting Scholar, Department of Clinical Epidemiology\nYork University (Canada): Collaborative Grantee with the Individual Finance & Insurance Decisions (IFID) Centre"
+  },
+  {
+    "objectID": "cv.html#selected-grants-recognitions",
+    "href": "cv.html#selected-grants-recognitions",
+    "title": "Curriculum Vitae",
+    "section": "Selected Grants & Recognitions",
+    "text": "Selected Grants & Recognitions\n\nResearch Grant recipient, Individual Finance & Insurance Decisions (IFID) Centre (with Prof. Moshe A. Milevsky, York University)\nPrincipal Investigator / Co-Investigator on national and European demographic and longevity modeling initiatives"
+  },
+  {
+    "objectID": "cv.html#embedded-document-viewer",
+    "href": "cv.html#embedded-document-viewer",
+    "title": "Curriculum Vitae",
+    "section": "Embedded Document Viewer",
+    "text": "Embedded Document Viewer\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDF files. Please &lt;a href=\"files/anigri_cv_oct_25.pdf\"&gt;download the PDF file&lt;/a&gt; directly.\n&lt;/p&gt;"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrea Nigri",
+    "section": "",
+    "text": "I am an Associate Professor in Statistics (Statistical Modelling for Longevity Analysis) at the Department of Social Sciences, University of Foggia, and I hold the Italian National Scientific Qualification (Abilitazione Scientifica Nazionale) as Full Professor in Social Statistics and Demography (13/D3).\nPrior to joining the University of Foggia, I was a Research Fellow at the Department of Social and Political Sciences at Bocconi University.\nMy research develops and advances statistical methodology in the field of Longevity Risk and Statistical Demography. It bridges the gap between longevity analysis and statistical learning, introducing regression trees, neural networks, and deep learning algorithms as integrations or full replacements of traditional mortality models.\n\n\n\n\n\n\nNoteContact Information\n\n\n\n\nInstitution: Department of Social Sciences, University of Foggia, Largo Papa Giovanni Paolo II, 1, 71121 Foggia, Italy\nInstitutional Email: andrea.nigri@unifg.it\nPrimary Email: andrea.nigri88@gmail.com\n\n\n\nExplore Research & Publications View Curriculum Vitae"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Andrea Nigri",
+    "section": "",
+    "text": "I am an Associate Professor in Statistics (Statistical Modelling for Longevity Analysis) at the Department of Social Sciences, University of Foggia, and I hold the Italian National Scientific Qualification (Abilitazione Scientifica Nazionale) as Full Professor in Social Statistics and Demography (13/D3).\nPrior to joining the University of Foggia, I was a Research Fellow at the Department of Social and Political Sciences at Bocconi University.\nMy research develops and advances statistical methodology in the field of Longevity Risk and Statistical Demography. It bridges the gap between longevity analysis and statistical learning, introducing regression trees, neural networks, and deep learning algorithms as integrations or full replacements of traditional mortality models.\n\n\n\n\n\n\nNoteContact Information\n\n\n\n\nInstitution: Department of Social Sciences, University of Foggia, Largo Papa Giovanni Paolo II, 1, 71121 Foggia, Italy\nInstitutional Email: andrea.nigri@unifg.it\nPrimary Email: andrea.nigri88@gmail.com\n\n\n\nExplore Research & Publications View Curriculum Vitae"
+  },
+  {
+    "objectID": "index.html#words-of-inspiration",
+    "href": "index.html#words-of-inspiration",
+    "title": "Andrea Nigri",
+    "section": "Words of Inspiration",
+    "text": "Words of Inspiration\n\nModel simple; think complex.\nJim Vaupel\n\n\nI know of scarcely anything so apt to impress the imagination as the wonderful form of cosmic order expressed by the Law of Frequency of Error. The law would have been personified by the Greeks and deified, if they had known of it. It reigns with serenity and in complete selfeffacement, amidst the wildest confusion. The huger the mob, and the greater the apparent anarchy, the more perfect is its sway. It is the supreme law of Unreason. Whenever a large sample of chaotic elements are taken in hand and marshaled in the order of their magnitude, an unsuspected and most beautiful form of regularity proves to have been latent all along.\nSir Francis Galton\n\n\nSpira mirabilis … eadem mutata resurgo.\nJakob Bernoulli"
+  }
+]

@@ -1,0 +1,292 @@
+---
+title: "Research & Publications"
+subtitle: "Statistical Demography · Longevity Risk · Machine Learning & Mortality Modeling"
+toc: true
+---
+
+## Research Overview
+
+Andrea Nigri is an Associate Professor at the Department of Social Sciences, University of Foggia. Prior to joining the University of Foggia, he was a Research Fellow at the Department of Social and Political Sciences, Bocconi University.
+
+He works on developing and improving statistical methodology in the field of **Statistical Demography** and **Longevity Risk**. He has an interdisciplinary background with training in Statistics and its application to demographic research, obtained through a **Ph.D. at Sapienza University of Rome** (Department of Statistics), and through the **European Doctoral School of Demography (EDSD)**, a pan-European Ph.D. training program held at the Max Planck Institute for Demographic Research and the University of Southern Denmark.
+
+Prior to starting the Ph.D. program, in 2016 he was a Research Fellow at the Local Health Department of Padua ULSS6, working on epidemiologic surveillance of asbestos-related disease and occupational exposure.
+
+### Research Agenda & Themes
+
+His research serves as a bridge between longevity analysis and statistical learning:
+
+- **Statistical Learning & Deep Learning for Mortality Modeling:** Introducing regression trees, neural networks (such as LSTM architectures), and skew-normal mixture models as integrations or full replacements of traditional mortality models (e.g. Lee-Carter extensions).
+- **Indirect Estimation of Vital Rates:** Developing cutting-edge methods to disaggregate death rates of age-groups and estimate age-specific mortality profiles from summary demographic measures (such as life expectancy at birth).
+- **Causes-of-Death & Lifespan Inequality:** Investigating causes-of-death transitions, lifespan variation among populations with specific medical conditions, and novel lifespan disparity metrics such as the Average Uneven Mortality index ($e^\dagger$).
+
+### Visiting Fellowships & Collaborations
+
+- **Macquarie University (Australia):** Honorary Visiting Fellow, Business School, Department of Actuarial Studies and Business Analytics
+- **Max-Planck Institute for Demographic Research (MPIDR, Germany):** Visiting Scholar
+- **University of Southern Denmark (SDU):** Visiting Scholar, Interdisciplinary Centre on Population Dynamics (CPop)
+- **Aarhus University (Denmark):** Visiting Scholar, Department of Clinical Epidemiology
+- **York University (Canada):** Research grant collaboration with the *Individual Finance & Insurance Decisions (IFID) Centre*
+
+---
+
+## Editorial Roles
+
+::: {.editorial-card}
+[Co-Editor in Chief]{.editorial-role} · *Communications in Statistics – Theory and Methods* (2025–present)
+:::
+
+::: {.editorial-card}
+[Associate Editor]{.editorial-role} · *Journal of Applied Statistics: Environmental Statistics and Data Science* (2025–present)
+:::
+
+::: {.editorial-card}
+[Associate Editor]{.editorial-role} · *Journal of Population Research* (2024–present)
+:::
+
+::: {.editorial-card}
+[Associate Editor]{.editorial-role} · *Population Health Metrics* (2024–present)
+:::
+
+::: {.editorial-card}
+[Editorial Board Member]{.editorial-role} · *Scientific Reports* (2023)
+:::
+
+::: {.editorial-card}
+[Guest Editor]{.editorial-role} · Special Issue: *Advances in Statistical Modelling for Social Science*, *Annals of Operations Research* (2023)
+:::
+
+::: {.editorial-card}
+[Lead Guest Editor]{.editorial-role} · Special Issue: *Methods for modelling and understanding population changes*, *Quality & Quantity: International Journal of Methodology*
+:::
+
+::: {.editorial-card}
+[Editorial Board Member]{.editorial-role} · *Quality & Quantity: International Journal of Methodology* (2021)
+:::
+
+---
+
+## Selected Publications
+
+*(For a complete list of publications, monographs, and conference proceedings, please refer to the [Curriculum Vitae](cv.qmd) or [Google Scholar](https://scholar.google.com/citations?user=ga4kg_MAAAAJ&hl=it&oi=sra)).*
+
+::: {.publication-item}
+::: {.pub-title}
+Extending finite mixture models with skew-normal distributions and hidden Markov models for time series
+:::
+::: {.pub-authors}
+A. Nigri, M. Forti, H. L. Shang (2025)
+:::
+::: {.pub-journal}
+*Journal of Statistical Computation and Simulation*, 1–28.
+:::
+<a href="https://doi.org/10.1080/00949655.2025.2568148" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/00949655.2025.2568148</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Age-period modeling of mortality gaps: the cases of cancer and circulatory diseases
+:::
+::: {.pub-authors}
+G. L. Baldi, A. Nigri, H. L. Shang (2025)
+:::
+::: {.pub-journal}
+*Journal of Official Statistics*.
+:::
+<a href="https://doi.org/10.1177/0282423x251350772" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1177/0282423x251350772</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Stochastic variational inference for clustering short text data with finite mixtures of Dirichlet-Multinomial distributions
+:::
+::: {.pub-authors}
+M. Bilancia, A. Nigri, S. Magro (2025)
+:::
+::: {.pub-journal}
+*Statistical Papers*, 66 (4), 801.
+:::
+<a href="https://doi.org/10.1007/s00362-025-01764-0" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1007/s00362-025-01764-0</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+The poverty-free life expectancy in Europe
+:::
+::: {.pub-authors}
+G. Betti, F. Crescenzi, A. Nigri (2025)
+:::
+::: {.pub-journal}
+*Journal of Official Statistics*.
+:::
+<a href="https://doi.org/10.1177/0282423x251316158" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1177/0282423x251316158</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Forecasting vital rates by a trimodal extension of the flexible generalized skew normal probability density function
+:::
+::: {.pub-authors}
+M. Bufalo, A. Nigri (2024)
+:::
+::: {.pub-journal}
+*Statistics*, 58 (6), 1506–1530.
+:::
+<a href="https://doi.org/10.1080/02331888.2024.2422376" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/02331888.2024.2422376</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Wasserstein Barycenter Regression: Application to the Joint Dynamics of Regional GDP and Life Expectancy in Italy
+:::
+::: {.pub-authors}
+S. Levantesi, A. Nigri, P. Pagnottoni, A. Spelta (2024)
+:::
+::: {.pub-journal}
+*AStA Advances in Statistical Analysis*.
+:::
+<a href="https://doi.org/10.1007/s10182-024-00506-1" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1007/s10182-024-00506-1</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+An interpretable cluster-based logistic regression model, with application to the characterization of response to therapy in severe eosinophilic asthma
+:::
+::: {.pub-authors}
+M. Bilancia, A. Nigri, B. Cafarelli, D. Di Bona (2024)
+:::
+::: {.pub-journal}
+*The International Journal of Biostatistics*.
+:::
+<a href="https://doi.org/10.1515/ijb-2023-0061" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1515/ijb-2023-0061</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+The Average Uneven Mortality index: Building on the “e-dagger” measure of lifespan inequality
+:::
+::: {.pub-authors}
+M. Bonetti, U. Basellini, A. Nigri (2024)
+:::
+::: {.pub-journal}
+*Demographic Research*, 50, 1281–1300.
+:::
+<a href="https://doi.org/10.4054/DemRes.2024.50.43" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.4054/DemRes.2024.50.43</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Disaggregating death rates of age-groups using deep learning algorithms
+:::
+::: {.pub-authors}
+A. Nigri, S. Levantesi, S. Scognamiglio (2024)
+:::
+::: {.pub-journal}
+*Journal of Official Statistics*.
+:::
+<a href="https://doi.org/10.1177/0282423x241240739" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1177/0282423x241240739</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Lifespan variation among people with a given disease or condition
+:::
+::: {.pub-authors}
+Z. Yan, I. Permanyer, V. Canudas-Romo, J. M. Aburto, A. Nigri, O. Plana-Ripoll (2023)
+:::
+::: {.pub-journal}
+*PLOS ONE*, 18 (9): e0290962.
+:::
+<a href="https://doi.org/10.1371/journal.pone.0290962" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1371/journal.pone.0290962</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Mortality forecasting using a four-way CANDECOMP/PARAFAC decomposition
+:::
+::: {.pub-authors}
+G. Cardillo, P. Giordani, S. Levantesi, A. Nigri, A. Spelta (2023)
+:::
+::: {.pub-journal}
+*Scandinavian Actuarial Journal*.
+:::
+<a href="https://doi.org/10.1080/03461238.2023.2175326" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/03461238.2023.2175326</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Evaluation of age-specific causes of death in the context of the Italian longevity transition
+:::
+::: {.pub-authors}
+A. Nigri, J. M. Aburto, U. Basellini, M. Bonetti (2022)
+:::
+::: {.pub-journal}
+*Scientific Reports*, 12, 22624.
+:::
+<a href="https://doi.org/10.1038/s41598-022-26907-3" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1038/s41598-022-26907-3</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Leveraging deep neural networks to estimate age-specific mortality from life expectancy at birth
+:::
+::: {.pub-authors}
+A. Nigri, S. Levantesi, J. M. Aburto (2022)
+:::
+::: {.pub-journal}
+*Demographic Research*, 47, 8, 203–220.
+:::
+<a href="https://doi.org/10.4054/DemRes.2022.47.8" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.4054/DemRes.2022.47.8</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Clustering-based simultaneous forecasting of life expectancy time series through Long-Short Term Memory Neural Networks
+:::
+::: {.pub-authors}
+S. Levantesi, A. Nigri, G. Piscopo (2022)
+:::
+::: {.pub-journal}
+*International Journal of Approximate Reasoning*, 141, 144–160.
+:::
+<a href="https://doi.org/10.1016/j.ijar.2021.10.008" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1016/j.ijar.2021.10.008</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+The relationship between longevity and lifespan variation
+:::
+::: {.pub-authors}
+A. Nigri, E. Barbi, S. Levantesi (2022)
+:::
+::: {.pub-journal}
+*Statistical Methods & Applications*, 31, 887–913.
+:::
+<a href="https://doi.org/10.1007/s10260-021-00584-4" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1007/s10260-021-00584-4</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+Life expectancy and lifespan disparity forecasting: a Long Short-Term Memory approach
+:::
+::: {.pub-authors}
+A. Nigri, S. Levantesi, M. Marino (2021)
+:::
+::: {.pub-journal}
+*Scandinavian Actuarial Journal*, 2021 (2), 110–133.
+:::
+<a href="https://doi.org/10.1080/03461238.2020.1814855" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/03461238.2020.1814855</a>
+:::
+
+::: {.publication-item}
+::: {.pub-title}
+A deep learning integrated Lee-Carter model
+:::
+::: {.pub-authors}
+A. Nigri, S. Levantesi, M. Marino, S. Scognamiglio, F. Perla (2019)
+:::
+::: {.pub-journal}
+*Risks*, 7 (1), 33.
+:::
+<a href="https://doi.org/10.3390/risks7010033" target="_blank" class="badge bg-primary text-decoration-none pub-badge"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.3390/risks7010033</a>
+:::

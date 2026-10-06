@@ -1,0 +1,69 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Andrea Nigri · Associate Professor in Statistics"
+toc: true
+---
+
+<div class="d-flex align-items-center justify-content-between flex-wrap gap-2 mb-4 p-3 bg-light rounded border">
+  <div>
+    <strong>Curriculum Vitae (Updated October 2025)</strong><br>
+    <span class="text-muted small">Available for preview below or direct PDF download.</span>
+  </div>
+  <div>
+    <a href="files/anigri_cv_oct_25.pdf" class="btn btn-primary" download>
+      <i class="bi bi-file-earmark-pdf-fill me-1"></i> Download CV (PDF)
+    </a>
+  </div>
+</div>
+
+## Academic Positions & Qualifications
+
+- **Associate Professor in Statistics** (SECS-S/01)  
+  *Department of Social Sciences, University of Foggia* (Dec 2024 – present)
+- **Italian National Scientific Qualification (ASN) as Full Professor**  
+  *Sector 13/D3 – Social Statistics and Demography* (Valid 2024 – 2034)
+- **Tenure Track Assistant Professor (RTD-B) in Statistics**  
+  *Department of Social Sciences, University of Foggia* (Dec 2021 – Dec 2024)
+- **Postdoctoral Research Fellow**  
+  *Department of Social and Political Sciences, Bocconi University* (2020 – 2021)
+- **Research Fellow**  
+  *Department of Statistics, Sapienza University of Rome* (2019 – 2020)
+- **Epidemiologic Surveillance Research Fellow**  
+  *Local Health Department of Padua ULSS6* (2016)
+
+## Education
+
+- **Ph.D. in Methodological Statistics** (Demographic and Social Curriculum)  
+  *Sapienza University of Rome*, Department of Statistical Sciences (2016 – 2020)
+- **European Doctoral School of Demography (EDSD)**  
+  *Max Planck Institute for Demographic Research (MPIDR)* & *University of Southern Denmark (SDU)* (2017 – 2018)  
+  *Intensive pan-European mathematical and statistical demography training program.*
+- **M.Sc. in Statistical and Actuarial Sciences**  
+  *Sapienza University of Rome* (Summa cum Laude)
+- **B.Sc. in Statistics and Information Management**  
+  *Sapienza University of Rome*
+
+## Visiting Stays & International Fellowships
+
+- **Macquarie University (Australia):** Honorary Visiting Fellow, Business School, Department of Actuarial Studies and Business Analytics
+- **Max Planck Institute for Demographic Research (MPIDR, Germany):** Visiting Scholar
+- **University of Southern Denmark (SDU):** Visiting Scholar, Interdisciplinary Centre on Population Dynamics (CPop)
+- **Aarhus University (Denmark):** Visiting Scholar, Department of Clinical Epidemiology
+- **York University (Canada):** Collaborative Grantee with the *Individual Finance & Insurance Decisions (IFID) Centre*
+
+## Selected Grants & Recognitions
+
+- **Research Grant recipient**, *Individual Finance & Insurance Decisions (IFID) Centre* (with Prof. Moshe A. Milevsky, York University)
+- **Principal Investigator / Co-Investigator** on national and European demographic and longevity modeling initiatives
+
+---
+
+## Embedded Document Viewer
+
+::: {.pdf-container}
+<object data="files/anigri_cv_oct_25.pdf" type="application/pdf" width="100%" height="850px">
+  <iframe src="files/anigri_cv_oct_25.pdf" width="100%" height="850px">
+    <p>Your browser does not support embedded PDF files. Please <a href="files/anigri_cv_oct_25.pdf">download the PDF file</a> directly.</p>
+  </iframe>
+</object>
+:::

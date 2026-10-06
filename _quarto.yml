@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andrea Nigri"
+  description: "Personal academic website of Andrea Nigri — Associate Professor in Statistics"
+  site-url: "https://andreuccio88.github.io"
+  
+  navbar:
+    title: "Andrea Nigri"
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research & Publications
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=ga4kg_MAAAAJ&hl=it&oi=sra
+        aria-label: Google Scholar
+      - icon: twitter-x
+        href: https://twitter.com/NigriAndrea
+        aria-label: Twitter / X
+      - icon: linkedin
+        href: https://it.linkedin.com/in/andrea-nigri
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:andrea.nigri88@gmail.com
+        aria-label: Email
+      - icon: github
+        href: https://github.com/andreuccio88
+        aria-label: GitHub
+
+  page-footer:
+    left: "© Andrea Nigri · Department of Social Sciences, University of Foggia"
+    right: "Built with [Quarto](https://quarto.org) · Minty Theme"
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true

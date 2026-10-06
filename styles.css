@@ -1,0 +1,145 @@
+/* Custom styling for Andrea Nigri's Academic Website */
+
+/* Typography & Layout adjustments */
+body {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+/* Quotes styling matching the personal flair from WordPress */
+blockquote {
+  border-left: 4px solid var(--bs-primary, #78c2ad);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  background-color: rgba(120, 194, 173, 0.08);
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+
+blockquote p {
+  margin-bottom: 0.5rem;
+  font-style: italic;
+  color: #2c3e50;
+}
+
+blockquote cite,
+blockquote footer {
+  display: block;
+  font-size: 0.9rem;
+  font-style: normal;
+  font-weight: 600;
+  color: #5a738e;
+  text-align: right;
+}
+
+/* About page trestles styling */
+.about-entity .about-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.about-link {
+  border-radius: 20px;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.9rem;
+  transition: all 0.2s ease-in-out;
+}
+
+/* Publications list */
+.publication-item {
+  margin-bottom: 1.35rem;
+  padding-bottom: 1.15rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.publication-item:last-child {
+  border-bottom: none;
+}
+
+.pub-title {
+  font-weight: 600;
+  color: #1a252f;
+  margin-bottom: 0.25rem;
+}
+
+.pub-authors {
+  color: #495057;
+  font-size: 0.95rem;
+  margin-bottom: 0.25rem;
+}
+
+.pub-journal {
+  font-style: italic;
+  color: #6c757d;
+  font-size: 0.92rem;
+  margin-bottom: 0.35rem;
+}
+
+.pub-badge {
+  font-size: 0.75rem;
+  text-decoration: none;
+  padding: 0.25rem 0.6rem;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  transition: all 0.2s ease;
+}
+
+.pub-badge:hover {
+  filter: brightness(0.92);
+  text-decoration: none;
+}
+
+/* Editorial roles section */
+.editorial-card {
+  border-left: 3px solid var(--bs-primary, #78c2ad);
+  background-color: #ffffff;
+  padding: 0.85rem 1.15rem;
+  margin-bottom: 0.75rem;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.editorial-role {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+/* PDF viewer container for CV page */
+.pdf-container {
+  position: relative;
+  width: 100%;
+  height: 850px;
+  margin-top: 1.5rem;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+.pdf-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Quick contact pills */
+.contact-badge {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  color: #495057;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.88rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  text-decoration: none;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.contact-badge:hover {
+  background-color: #e9ecef;
+  color: #212529;
+}
