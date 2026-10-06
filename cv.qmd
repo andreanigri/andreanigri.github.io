@@ -26,22 +26,20 @@ toc: true
   *Department of Social Sciences, University of Foggia* (Dec 2021 – Dec 2024)
 - **Postdoctoral Research Fellow**  
   *Department of Social and Political Sciences, Bocconi University* (2020 – 2021)
-- **Research Fellow**  
-  *Department of Statistics, Sapienza University of Rome* (2019 – 2020)
 - **Epidemiologic Surveillance Research Fellow**  
   *Local Health Department of Padua ULSS6* (2016)
 
 ## Education
 
-- **Ph.D. in Methodological Statistics** (Demographic and Social Curriculum)  
-  *Sapienza University of Rome*, Department of Statistical Sciences (2016 – 2020)
+- **Ph.D. at the School of Statistical Sciences**  
+  *Sapienza University of Rome*, Department of Statistical Sciences (2017 – 2020)
 - **European Doctoral School of Demography (EDSD)**  
   *Max Planck Institute for Demographic Research (MPIDR)* & *University of Southern Denmark (SDU)* (2017 – 2018)  
   *Intensive pan-European mathematical and statistical demography training program.*
-- **M.Sc. in Statistical and Actuarial Sciences**  
-  *Sapienza University of Rome* (Summa cum Laude)
-- **B.Sc. in Statistics and Information Management**  
-  *Sapienza University of Rome*
+- **M.Sc. in Statistical Sciences**  
+  *University of Siena* 
+- **B.Sc. in Economics**  
+  *University of Foggia*
 
 ## Visiting Stays & International Fellowships
 
@@ -49,12 +47,7 @@ toc: true
 - **Max Planck Institute for Demographic Research (MPIDR, Germany):** Visiting Scholar
 - **University of Southern Denmark (SDU):** Visiting Scholar, Interdisciplinary Centre on Population Dynamics (CPop)
 - **Aarhus University (Denmark):** Visiting Scholar, Department of Clinical Epidemiology
-- **York University (Canada):** Collaborative Grantee with the *Individual Finance & Insurance Decisions (IFID) Centre*
 
-## Selected Grants & Recognitions
-
-- **Research Grant recipient**, *Individual Finance & Insurance Decisions (IFID) Centre* (with Prof. Moshe A. Milevsky, York University)
-- **Principal Investigator / Co-Investigator** on national and European demographic and longevity modeling initiatives
 
 ---
 
